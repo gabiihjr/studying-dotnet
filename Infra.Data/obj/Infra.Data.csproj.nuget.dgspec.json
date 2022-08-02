@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data\\Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data\\Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data\\Infra.Data.csproj",
+        "projectName": "Infra.Data",
+        "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data\\Infra.Data.csproj",
         "packagesPath": "C:\\Users\\gabriela.hermenegil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabriela.hermenegil\\AppData\\Roaming\\NuGet\\NuGet.Config",

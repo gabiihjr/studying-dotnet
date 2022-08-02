@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj",
-      "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data.Dapper\\Infra.Data.Dapper.csproj",
+      "projectName": "Infra.Data.Dapper",
+      "projectPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data.Dapper\\Infra.Data.Dapper.csproj",
       "packagesPath": "C:\\Users\\gabriela.hermenegil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\gabriela.hermenegil\\Desktop\\Gabriela\\Github\\studying-dotnet\\Infra.Data.Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabriela.hermenegil\\AppData\\Roaming\\NuGet\\NuGet.Config",
